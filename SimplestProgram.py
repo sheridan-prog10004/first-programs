@@ -1,0 +1,1 @@
+#The simplest program in Python is an empty program, because Python is an interpreted language
